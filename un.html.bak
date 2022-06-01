@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html id="un">
+    <head>
+        <!--En-tête de la page -->
+        <meta charset="utf-8" />
+        <link rel="stylesheet" href="squadra.css" />
+        <title>Niveau 1</title>
+</head><body id="un">
+<a href="squadra.html" ><img src="images/logo/retour.png" width="50" id="retour" ></a>
+<a href="deux.html" ><img src="images/logo/next.png" width="100" id="next"></a>
+<br><br><br><br><br>
+<font size="5"><center><span style="color:white">Voici le niveau 1 où notre PrinceCroc devra traverser un village médiéval mais attention, plusieurs ennemis s'y cachent !
+</center> 
+<nav id="D">
+	<ul>
+    <li class="deroulant"><a href="#">Description &ensp;</a>
+      <ul class="D">
+	  <span style="color:white">
+         PrinceCroc part à la recherche des morceaux de sa couronne répartie dans trois coins du monde, sa première épreuve se fera dans un village médiéval.
+		 Arrivera-t-il à récupérer le premier morceau ?
+      </ul></span>
+    </li>
+	<li><img src=""></a></li>
+    <li class="deroulant"><a href="#">Ennemis &ensp;</a>
+      <ul class="D">
+	  <span style="color:white">
+        <li><h1>Chevalier </li></h1>
+		<li>Ce chevalier reste toujours sur son cheval et n'attaque qu'avec sa lance !<br><center><img src="images/gifs/chevalier.gif" width="100">
+		<br>
+		<li><h1>Archer </li></h1>
+		<li>Cet archer inflige des dégâts à distance grace à son arc !<br><center><img src="images/gifs/archer.gif" width="100">
+      </ul></span>
+    </li>
+	</ul>
+</nav>
+</body>
+<footer>
+		<a href="http://toulouse.epita.fr" target="_blank"><img src="images/logo/epita.png" class="agrandir_g" width="60"style="float:left;margin-left:0px;"></a>
+	<a href="http://toulouse.epita.fr" target="_blank"><img src="images/logo/epita.png" class="agrandir_c" width="60" style="float:left;margin-left:600px;"></a>
+	<a href ="http://toulouse.epita.fr" target="_blank"><img src="images/logo/epita.png" class="agrandir_d" width="60" style="float:left;margin-left:700px;"></a>

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html id="propos">
+    <head>
+        <!--En-tête de la page -->
+        <meta charset="utf-8" />
+        <link rel="stylesheet" href="squadra.css" />
+        <title>A propos</title>
+    </head>
+	<left><a href="squadra.html" style="color:white"><img src="images/logo/retour.png" width="50"></a></left>
+	<body id="propos">
+	<br><center><br><br><font size="6">PrinceCroc est un jeu créé par Colin Ball, Fabio Sintoni, Elian Martinot et Diego Riviere--Jombart pour un projet informatique lors de notre première année de préparatoire à l'école Épita à Toulouse.
+	<br><br><br>Le but du jeu est d'aider PrinceCroc le petit crocodile à retrouver ses morceaux de couronnes éparpillés dans trois endroits différents, le premier étant un village médiéval,
+	le deuxième une forêt sombre et enfin il trouvera son dernier morceau de couronne dans une montagne enneigée. <br>Une fois sa couronne rassemblée, il ne lui  manquera plus qu'à retourner chez lui 
+	en passant par le dernier endroit, le volcan.<br> <br> Logiciels utilisés : <br>
+	<a href="https://www.aseprite.org" target="_blank"><img src="images/logo/asesprite.png" width="100" class="agrandi"></a>
+	<a href="https://unity.com" target="_blank"><img src="images/logo/unity.png" width="100" class="agrandi"></a>
+	<a href="https://notepad-plus-plus.org" target="_blank"><img src="images/logo/notepad++.png" width="100" class="agrandi"></a>
+	<a href="https://meme.institute/gxscc/" target="_blank"><img src="images/logo/GXSCC.png" width="100" class="agrandi"></a>
+</center>
+	</body>
+	<footer>
+	<a href="http://toulouse.epita.fr" target="_blank"><img src="images/logo/epita.png" class="agrandir_g" width="60"style="float:left;margin-left:0px;"></a>
+	<a href="http://toulouse.epita.fr" target="_blank"><img src="images/logo/epita.png" class="agrandir_c" width="60" style="float:left;margin-left:600px;"></a>
+	<a href ="http://toulouse.epita.fr" target="_blank"><img src="images/logo/epita.png" class="agrandir_d" width="60" style="float:left;margin-left:700px;"></a>
