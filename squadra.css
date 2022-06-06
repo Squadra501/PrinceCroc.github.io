@@ -32,14 +32,26 @@ footer {
  width: auto;
  height: 120px;
 }
-.agrandir_d , .agrandir_c , .agrandir_g{
+.agrandir_c , .agrandir_g{
 
  height: 48px;
  transition: height 200ms, width 200ms;
 
 }
-
-.agrandir_d:hover , .agrandir_c:hover , .agrandir_g:hover {
+.agrandir_d{
+    width: 50%;
+    height: 30%;
+    text-align: right;
+}
+.agrandir_d a{
+    display: inline-block;
+    padding: 0 15px;
+}
+.agrandir_d a:hover{
+    transform: scale(1.2);
+    transition: 0.1s;
+}
+.agrandir_c:hover , .agrandir_g:hover {
  width: auto;
  height: 50px;
 
