@@ -32,38 +32,18 @@ footer {
  width: auto;
  height: 120px;
 }
-.agrandir_c , .agrandir_g{
+.agrandir_c , .agrandir_g , .agrandir_d{
 
  height: 48px;
  transition: height 200ms, width 200ms;
 
 }
-.agrandir_c:hover , .agrandir_g:hover {
+.agrandir_c:hover , .agrandir_g:hover , .agrandir_d {
  width: auto;
  height: 50px;
 
 }
-.agrandir_d{
-    width: 50%;
-    height: 30%;
-    text-align: right;
-}
-.agrandir_d a{
-    display: inline-block;
-    padding: 0 15px;
-}
-.agrandir_d a:hover{
-    transform: scale(1.2);
-    transition: 0.1s;
-}
 
-    #conteneur {
-      position : absolute;
-      top : 0;
-      left : -380px;
-      margin-left : 50%;
-      width : 760px;
-      }
 #retour {
     padding-left:0px;
 	float:left;
