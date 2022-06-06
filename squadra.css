@@ -27,7 +27,7 @@ footer {
  height: 100px;
  transition: height 200ms, width 200ms;
 }
-
+ 
 .agrandi:hover {
  width: auto;
  height: 120px;
