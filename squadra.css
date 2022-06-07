@@ -127,7 +127,17 @@ footer {
       width : 100%;
       height : 100%;
       }
-    
+
+#accueilin {
+    background-image:url("images/background/Hamburger.jfif");
+    background-attachment:fixed;
+    background-size:100% 100%;
+    color:black;
+      margin : 0;
+      padding : 0;
+      width : 100%;
+      height : 100%;
+      }
 
 h1{
 	margin:0 !important;
